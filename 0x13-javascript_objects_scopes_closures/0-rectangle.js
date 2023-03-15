@@ -1,1 +1,1 @@
-adfadf
+class Rectangle{}
